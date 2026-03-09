@@ -1,9 +1,11 @@
 # Epilepsy surgery outcome prediction using a novel EEG marker based on connectivity changes
 
 This is a novel framework that uses cross-validation and machine learning to measure functional connectivity change, enabling epilepsy surgery outcome prediction.
-
-<!-- Graphical abstract -->
-<!-- ![Graphical Abstract](data/graphical_abstract.jpg) -->
+<br>
+<br>
+<p align="center">
+  <img src="data/graphical_abstract.jpg" alt="System Diagram" width="500">
+</p>
 
 ## Publication
 
