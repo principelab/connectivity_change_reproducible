@@ -4,7 +4,7 @@ This is a novel framework that uses cross-validation and machine learning to mea
 <br>
 <br>
 <p align="center">
-  <img src="data/graphical_abstract.jpg" alt="System Diagram" width="500">
+  <img src="data/graphical_abstract.jpg" alt="System Diagram" width="1000">
 </p>
 
 ## Publication
